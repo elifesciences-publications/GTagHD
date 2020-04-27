@@ -96,3 +96,6 @@ runGitHub("GTagHD", "Dobbs-Lab")
 ```
 
 You're all set!
+
+Wierson et al. 2020. Efficient targeted integration directed by short homology in zebrafish and mammalian cells. DOI: https://doi.org/10.7554/eLife.53968
+
